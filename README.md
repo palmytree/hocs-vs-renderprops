@@ -1,1 +1,1 @@
-# Higher Order Component pattern vs Render Props
+# Higher Order Component vs Render Props Pattern
